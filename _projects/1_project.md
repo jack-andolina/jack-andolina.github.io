@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Digital Campaign Trail: An Exploration of Facebook Political Ads Leading up to the 2020 Presidential Election
+title: The Digital Campaign Trail: An Exploration of Facebook Political Ads Leading up to the 2020 Election
 description: Text as Data, Machine Learning, R, Data Dashboard
 img: assets/img/12.jpg
 importance: 1
