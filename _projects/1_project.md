@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: The Digital Campaign Trail: An Exploration of Facebook Political Ads Leading up to the 2020 Presidential Election
+description: Text as Data, Machine Learning, R, Data Dashboard
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: No Related Publications
 ---
 
 Every project has a beautiful feature showcase page.
